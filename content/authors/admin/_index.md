@@ -70,5 +70,5 @@ user_groups:
 - Visitors
 ---
 
-I'm a junior at Stony Brook University majoring in Computer Science. Currently, I am working on a visual recognition project focusing on its effeciency on the Addroid device at the Ethos Lab at Stony Brook University. My Principal Investigator is [Amir Rahmati](https://amir.rahmati.com/). I am looking for a software development internship at Summer 2020. 
+I'm a junior at Stony Brook University majoring in Computer Science. Currently, I am working on a visual recognition project focusing on its effeciency on the Addroid device at the Ethos Lab at Stony Brook University. My Principal Investigator is [Amir Rahmati](https://amir.rahmati.com/). I am looking for a software development internship for Summer 2020. You can find some of my projects below.
 
